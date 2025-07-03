@@ -20,12 +20,12 @@ Exemplary results. Explanation and more in the `mn_msb_report.pdf`.
 UMAP is a modern dimensionality reduction technique. It stands for Uniform Manifold Approximation and Projection for Dimension Reduction. Here. I show the UMAP representation of the cells coloured by the broad cell type and menstrual cycle stage.
 
 <div align="center"/>
-  <img src="figures/panels/dataset_outlook.png" alt=overview width=90%/>
+  <img src="figures/panels/dataset_outlook.png" alt=overview width=100%/>
 </div>
 
 ## TENTs expression in endometrium
 
 <div align="center"/>
-  <img src="figures/panels/expression.png" alt=overview width=90%/>
+  <img src="figures/panels/expression.png" alt=overview width=70%/>
   
 </div>
