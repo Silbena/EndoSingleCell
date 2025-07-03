@@ -27,5 +27,17 @@ UMAP is a modern dimensionality reduction technique. It stands for Uniform Manif
 
 <div align="center"/>
   <img src="figures/panels/expression.png" alt=overview width=70%/>
-  
 </div>
+
+## TENTs expression in glandular cells
+
+<div align="center"/>
+  <img src="figures/panels/glandular.png" alt=overview width=70%/>
+</div>
+
+## TENTs expression in SOX9 cells
+
+<div align="center"/>
+  <img src="figures/panels/sox.png" alt=overview width=70%/>
+</div>
+
