@@ -1,5 +1,5 @@
 # Overwiew
-Transcriptomic analysis of human endometrium and exploration of TENT protein family role in endometrial cells and in the menstrual cycle.
+Transcriptomic analysis of human endometrium and exploration of TENT protein family role in endometrial cells and in the menstrual cycle. To read the full report go to %rarr; `mn_msb_report.pdf`.
 
 # Data
 RNA single-cell sequencing data publish in [Mapping the temporal and spatial dynamics of the human endometrium in vivo and in vitro](https://www.nature.com/articles/s41588-021-00972-2) and available under Endometrium tab in the [Reproductive Cell Atlas](https://www.reproductivecellatlas.org/non-pregnant-uterus.html).
@@ -12,3 +12,7 @@ RNA single-cell sequencing data publish in [Mapping the temporal and spatial dyn
 4. `clustering.ipynb` &rarr; UMAP and Leiden clustering,
 5. `expression.ipynb` &rarr; expression of TENTs,
 6. `trajectories.ipynb` &rarr; trajectory analysis with the focus on TENTs.
+
+# Results
+
+
